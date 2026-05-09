@@ -13,7 +13,6 @@ LD Badge 是一个提供用于便于链接linux.do的徽章的项目。该徽章
 ## 文件说明
 
 - `ld-badge.svg` - 社区徽章 SVG 文件
-- `ld-logo.png` - 社区 Logo 图片
 
 ## 使用方法
 
