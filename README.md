@@ -3,7 +3,7 @@
 一个简洁的社区徽章。
 
 
-![LD Badge](https://raw.githubusercontent.com/programming666/ld-badge/main/ld-badge.svg)
+![linux.do](https://raw.githubusercontent.com/programming666/ld-badge/main/ld-badge.svg)
 
 
 ## 简介
