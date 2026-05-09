@@ -3,7 +3,7 @@
 一个简洁的社区徽章。
 
 
-![linux.do](https://raw.githubusercontent.com/programming666/ld-badge/main/ld-badge.svg)
+![linux.do](https://ld.xh.do/ld-badge.svg)
 
 
 ## 简介
@@ -20,11 +20,11 @@ LD Badge 是一个提供用于便于链接linux.do的徽章的项目。该徽章
 ### 在 Markdown 中使用
 
 ```markdown
-![LD Badge](https://raw.githubusercontent.com/programming666/ld-badge/main/ld-badge.svg)
+![LD Badge](https://ld.xh.do/ld-badge.svg)
 ```
 
 ### 在 HTML 中使用
 
 ```html
-<img src="ld-badge.svg" alt="LD Badge" width="200" height="28">
+<img src="https://ld.xh.do/ld-badge.svg" alt="LD Badge" width="200" height="28">
 ```
