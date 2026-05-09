@@ -3,7 +3,7 @@
 一个简洁的LD社区徽章。
 
 
-![认可linux.do](https://ld.xh.do/ld-badge.svg)
+![linux.do](https://ld.xh.do/ld-badge.svg)
 
 
 ## 简介
